@@ -15,7 +15,7 @@ Usage
 -----
 Squall once was rather popular in Russian game development industry. The following is a list of commercial PC games that are known to use it:
 * Full Pipe / Полная труба (2003)
-* Dilemma / Dilemma (2006)
+* Dilemma / Дилемма (2006)
 * Legend of Beowulf / Легенда о Беовульфе (2007)
 * Nuclear Creatures / Ядерные твари (2007)
 * Star Legion / Звездный легион (2007)
