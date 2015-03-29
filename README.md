@@ -23,6 +23,7 @@ Squall once was rather popular in Russian game development industry. The followi
 * Farm Frenzy 2 / Веселая ферма 2 (2008)
 * Farm Frenzy: Pizza Party / Веселая ферма: печем пиццу (2009)
 * Bato: Treasures of Tibet / Бато: сокровища Тибета (2009)
+* Astana Racer (2009)
 * Possibly many others...
 
-There's also a rumor that a strongly modified version of Squall had become a part of X-Ray, the engine of S.T.A.L.K.E.R. Not sure if it's true.
+Squall had been also used by a number of game engines, namely, Xors3d Engine and (Isilme)[https://code.google.com/p/isilme]. There's also a rumor that a strongly modified version of Squall was a part of X-Ray, the engine of S.T.A.L.K.E.R. - not sure if it's true. 
