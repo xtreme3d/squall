@@ -19,10 +19,11 @@ Squall once was rather popular in Russian game development industry. The followi
 * Legend of Beowulf / Легенда о Беовульфе (2007)
 * Nuclear Creatures / Ядерные твари (2007)
 * Star Legion / Звездный легион (2007)
-* Stalin's Falcons / Сталинские соколы (2009)
+* Granny and Snowmen / Бабка против снеговиков (2008)
 * Farm Frenzy 2 / Веселая ферма 2 (2008)
 * Farm Frenzy: Pizza Party / Веселая ферма: печем пиццу (2009)
 * Bato: Treasures of Tibet / Бато: сокровища Тибета (2009)
+* Stalin's Falcons / Сталинские соколы (2009)
 * Astana Racer (2009)
 * Possibly many others...
 
