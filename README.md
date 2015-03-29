@@ -14,15 +14,15 @@ Features
 Usage
 -----
 Squall once was rather popular in Russian game development industry. The following is a list of commercial PC games that are known to use it:
-* Full Pipe / Полная труба (2003)
+* Full Pipe / РџРѕР»РЅР°СЏ С‚СЂСѓР±Р° (2003)
 * Dilemma / Dilemma (2006)
-* Legend of Beowulf / Легенда о Беовульфе (2007)
-* Nuclear Creatures / Ядерные твари (2007)
-* Star Legion / Звездный легион (2007)
-* Stalin's Falcons / Сталинские соколы (2009)
-* Farm Frenzy 2 / Веселая ферма 2 (2008)
-* Farm Frenzy: Pizza Party / Веселая ферма: печем пиццу (2009)
-* Bato: Treasures of Tibet / Бато: сокровища Тибета (2009)
+* Legend of Beowulf / Р›РµРіРµРЅРґР° Рѕ Р‘РµРѕРІСѓР»СЊС„Рµ (2007)
+* Nuclear Creatures / РЇРґРµСЂРЅС‹Рµ С‚РІР°СЂРё (2007)
+* Star Legion / Р—РІРµР·РґРЅС‹Р№ Р»РµРіРёРѕРЅ (2007)
+* Stalin's Falcons / РЎС‚Р°Р»РёРЅСЃРєРёРµ СЃРѕРєРѕР»С‹ (2009)
+* Farm Frenzy 2 / Р’РµСЃРµР»Р°СЏ С„РµСЂРјР° 2 (2008)
+* Farm Frenzy: Pizza Party / Р’РµСЃРµР»Р°СЏ С„РµСЂРјР°: РїРµС‡РµРј РїРёС†С†Сѓ (2009)
+* Bato: Treasures of Tibet / Р‘Р°С‚Рѕ: СЃРѕРєСЂРѕРІРёС‰Р° РўРёР±РµС‚Р° (2009)
 * Possibly many others...
 
 There's also a rumor that a strongly modified version of Squall had become a part of X-Ray, the engine of S.T.A.L.K.E.R. Not sure if it's true.
