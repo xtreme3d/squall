@@ -9,3 +9,4 @@ Features
 * Output via DirectSound
 * 3D sound support
 * Hardware acceleration support
+* CreativeLab EAX effects support
