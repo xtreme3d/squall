@@ -5,7 +5,7 @@ Audio engine for games. Originally written by Marat Gilyazetdinov (Squall 1.48 w
 Features
 --------
 * Written in C++, has also C interface
-* Supports VAW, MP3, WMA, OGG/Vorbis and a variety of tracker formats including MOD, S3M, XM, IT and many others
+* Supports WAV, MP3, WMA, OGG/Vorbis and a variety of tracker formats including MOD, S3M, XM, IT and many others
 * Output via DirectSound
 * 3D sound support
 * Hardware acceleration support
