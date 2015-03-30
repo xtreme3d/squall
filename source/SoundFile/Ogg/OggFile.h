@@ -12,8 +12,8 @@
 #include <mmreg.h>
 #include <mmsystem.h>
 
-#include "Reader.h"
-#include "AbstractSoundFile.h"
+#include "../Reader.h"
+#include "../AbstractSoundFile.h"
 
 class CAbstractSoundFile;
 

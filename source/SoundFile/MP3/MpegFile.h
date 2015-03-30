@@ -8,9 +8,9 @@
 #define _MPEG_FILE_H_INCLUDED_
 
 #include <windows.h>
-#include "AbstractSoundFile.h"
+#include "../AbstractSoundFile.h"
 
-class CAbstractSoundFile;
+//class CAbstractSoundFile;
 //-----------------------------------------------------------------------------
 // Класс для работы с данными Mp3 файлов
 //-----------------------------------------------------------------------------

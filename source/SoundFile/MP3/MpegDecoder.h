@@ -1,4 +1,4 @@
-﻿//-----------------------------------------------------------------------------
+//-----------------------------------------------------------------------------
 //	Класс декодера Audio - Mpeg Layer 1,2,3
 //	Копонент звукового двигателя Шквал
 //	команда		: AntiTank
@@ -8,8 +8,9 @@
 #define _MPEG_DECOMPRESSOR_H_INCLUDED_
 
 // включения
-#include "AbstractDecoder.h"
-#include "AbstractSoundFile.h"
+#include <windows.h>
+#include "../AbstractDecoder.h"
+#include "../AbstractSoundFile.h"
 #include "MpegHuff.h"
 
 // коды ошибок

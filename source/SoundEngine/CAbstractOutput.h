@@ -7,7 +7,7 @@
 #ifndef _CABSTRACT_OUTPUT_H_INCLUDED_
 #define _CABSTRACT_OUTPUT_H_INCLUDED_
 
-#include <Windows.h>
+#include <windows.h>
 
 class CAbstractOutput {
 protected:

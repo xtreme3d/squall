@@ -8,13 +8,13 @@
 // включения
 #include <stdio.h>
 #include <math.h>
-#include "..\Squall.h"
-#include "Eax.h"
-#include "ZoomFX.h"
-#include "SoundFile.h"
+#include "../Squall.h"
+#include "ext/Eax.h"
+#include "ext/ZoomFX.h"
+#include "../SoundFile/SoundFile.h"
 #include "Context.h"
 #include "Channels.h"
-#include "Reader.h"
+#include "../SoundFile/Reader.h"
 
 #include "SquallApi.h"
 #include "HiddenWindow.h"
@@ -23,9 +23,9 @@
 #include "CDXOutput.h"
 
 // подключаемые библиотеки
-#pragma comment(lib, "dxguid")
-#pragma comment(lib, "dsound")
-#pragma comment(lib, "winmm")
+//#pragma comment(lib, "dxguid")
+//#pragma comment(lib, "dsound")
+//#pragma comment(lib, "winmm")
 
 // список ошибок, работает только в отладочной версии двигателя
 #if SQUALL_DEBUG

@@ -9,8 +9,8 @@
 
 #include "CAbstractOutput.h"
 #include "DirectSound.h"
-#include "Eax.h"
-#include "ZoomFX.h"
+#include "ext/Eax.h"
+#include "ext/ZoomFX.h"
 
 
 /////////////////////////////////////////////////

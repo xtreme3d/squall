@@ -8,9 +8,9 @@
 #define _SSAMPLE_H_INCLUDED_
 
 // включения
-#include "..\Squall.h"
-#include <dsound.h>	
-#include "SoundFile.h"
+#include "../Squall.h"
+#include "DirectSound.h"	
+#include "../SoundFile/SoundFile.h"
 
 //-----------------------------------------------------------------------------
 //	Макросы

@@ -9,8 +9,8 @@
 
 // включения
 #include <windows.h>
-#include "AbstractDecoder.h"
-#include "AbstractSoundFile.h"
+#include "../AbstractDecoder.h"
+#include "../AbstractSoundFile.h"
 
 class CAbstractSoundFile;
 

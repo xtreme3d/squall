@@ -5,24 +5,24 @@
 //	разработчик	: Гилязетдинов Марат (Марыч)
 //-----------------------------------------------------------------------------
 
-#include "SquallApi.h"
+#include "../SoundEngine/SquallApi.h"
 #include "SoundFile.h"
 #include "Reader.h"
 
 // форматы файлов
-#include "WavFile.h"
-#include "MpegFile.h"
-#include "OggFile.h"
-#include "WmaFile.h"
+#include "WAV/WavFile.h"
+#include "MP3/MpegFile.h"
+#include "Ogg/OggFile.h"
+//#include "Wma/WmaFile.h"
 //#include "TrackFile.h"
 
 // декодеры звуковых потоков
-#include "PcmDecoder.h"
-#include "ImaAdpcmDecoder.h"
-#include "MsAdpcmDecoder.h"
-#include "MpegDecoder.h"
-#include "OggDecoder.h"
-#include "WmaDecoder.h"
+#include "WAV/PcmDecoder.h"
+#include "WAV/ImaAdpcmDecoder.h"
+#include "WAV/MsAdpcmDecoder.h"
+#include "MP3/MpegDecoder.h"
+#include "Ogg/OggDecoder.h"
+//#include "WmaDecoder.h"
 //#include "TrackDecoder.h"
 
 //-----------------------------------------------------------------------------
@@ -141,6 +141,7 @@ bool CSoundFile::Init(void)
 	char* test = reader->get_file_ext(); 
 
 	// проверка расширения файла
+        /*
 	if (reader->get_file_ext() != 0 && !memcmp(reader->get_file_ext(),
 											"wma",
 											3)) {
@@ -155,6 +156,7 @@ bool CSoundFile::Init(void)
 		delete decoder;
 		decoder = 0;
 	} else {
+        */
 		// поробуем открыть файл как Mpeg
 		sound_data = new CMpegFile(reader);
 		decoder = new CDecompressMpeg(&pcm_format, format_init, sound_data);
@@ -188,7 +190,7 @@ bool CSoundFile::Init(void)
 					delete decoder;
 					decoder = 0;
 			*/
-	}
+	//}
 	// ошибка инициализации данных 
 	return false;
 }

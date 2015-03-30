@@ -8,9 +8,9 @@
 #define _OGG_DECOMPRESSOR_H_INCLUDED_
 
 // включения
-#include "AbstractDecoder.h"
-#include "AbstractSoundFile.h"
-#include <vorbisfile.h>
+#include "../AbstractDecoder.h"
+#include "../AbstractSoundFile.h"
+#include <vorbis/vorbisfile.h>
 
 class CAbstractSoundFile;
 

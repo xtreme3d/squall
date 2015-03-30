@@ -5,7 +5,7 @@
 //-----------------------------------------------------------------------------
 // включения
 #include <stdio.h>
-#include "ZoomFX.h"
+#include "ext/ZoomFX.h"
 #include "SquallApi.h"
 #include "DirectSound.h"
 #include "HiddenWindow.h"

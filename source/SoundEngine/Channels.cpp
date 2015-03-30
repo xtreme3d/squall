@@ -9,7 +9,7 @@
 #include <stdio.h>
 #include <math.h>
 
-#include "SoundFile.h"
+#include "../SoundFile/SoundFile.h"
 #include "Channels.h"
 
 ///////////////////////////////////////////////////////////////////////////////

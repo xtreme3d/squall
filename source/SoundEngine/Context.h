@@ -8,7 +8,7 @@
 #define _SAGSS_DATA_H_INCLUDED_
 
 // внешние включения
-#include "Eax.h"
+#include "ext/Eax.h"
 #include "Channels.h"
 
 

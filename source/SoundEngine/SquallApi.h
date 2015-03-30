@@ -7,10 +7,10 @@
 #define _SQUALL_API_H_INCLUDED_
 
 #include <dsound.h>
-#include "Eax.h"
-#include "ExternFunction.h"
-#include "..\squall.h"
-#include "SoundFile.h"
+#include "ext/Eax.h"
+#include "../SoundFile/ExternFunction.h"
+#include "../Squall.h"
+#include "../SoundFile/SoundFile.h"
 #include "Context.h"
 
 /////////////////////////////////////////////////

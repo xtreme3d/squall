@@ -9,7 +9,7 @@
 
 // включения
 #include <windows.h>
-#include "reader.h"
+#include "Reader.h"
 
 class CAbstractDecompressor;
 class CAbstractSoundFile;

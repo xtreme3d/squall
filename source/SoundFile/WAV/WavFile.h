@@ -12,8 +12,8 @@
 #include <mmreg.h>
 #include <mmsystem.h>
 
-#include "Reader.h"
-#include "AbstractSoundFile.h"
+#include "../Reader.h"
+#include "../AbstractSoundFile.h"
 
 // идентификаторы блоков
 #define RIFF_ID		0x46464952			// идентификатор файла

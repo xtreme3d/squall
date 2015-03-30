@@ -21,35 +21,40 @@
 ////////////////////////////////////////////////
 // Рабочие методы
 ////////////////////////////////////////////////
-LPKSPROPERTYSET   eax_GetBufferInterface(          // получение eax интерфейса для звукового буфера
-                  LPDIRECTSOUNDBUFFER buffer);
+// получение eax интерфейса для звукового буфера
+LPKSPROPERTYSET   eax_GetBufferInterface(LPDIRECTSOUNDBUFFER buffer);
 
-LPKSPROPERTYSET   eax_GetBuffer3DInterface(        // получение eax интерфейса для трехмерного звукового буфера
-                  LPDIRECTSOUND3DBUFFER buffer3d);
+// получение eax интерфейса для трехмерного звукового буфера
+LPKSPROPERTYSET   eax_GetBuffer3DInterface(LPDIRECTSOUND3DBUFFER buffer3d);
 /*
-int               eax_TestQuerySupport(            // проверка доступности интерфейса
+// проверка доступности интерфейса
+int               eax_TestQuerySupport(
                   LPKSPROPERTYSET prop,
                   int type,
                   int version);
 */
-int               eax_Set(                         // установка eax параметров 
+// установка eax параметров 
+int               eax_Set(
                   LPKSPROPERTYSET prop,
                   int type,
                   int version,
                   void* data);
 
-int               eax_Get(                         // получение eax параметров
+// получение eax параметров
+int               eax_Get(
                   LPKSPROPERTYSET prop,
                   int type,
                   int version,
                   void* data);
 
-int               eax_Preset(                      // установка пресета
+// установка пресета
+int               eax_Preset(
                   LPKSPROPERTYSET prop,
                   int version,
                   int preset);
 
-int               eax_TestSupport(                 // проверка поддержки интерфейса
+// проверка поддержки интерфейса
+int               eax_TestSupport(
                   LPDIRECTSOUND direct,
                   int version);
 

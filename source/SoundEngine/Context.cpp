@@ -7,9 +7,8 @@
 
 // включения
 #include <stdio.h>
-#include <dsound.h>
 #include <math.h>
-#include "..\Squall.h"
+#include "../Squall.h"
 #include "Context.h"
 #include "SquallApi.h"
 #include "DirectSound.h"
