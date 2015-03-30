@@ -1,15 +1,16 @@
 Squall
 ======
-Audio engine for games. Originally written by Marat Gilyazetdinov. Last version of the engine was 1.48, then, in 2009, Squall was open-sourced. Since then, the progect is no longer maintained by the original developers, so I decided to publish it on GitHub. I plan to modernize the code base and port the engine to Linux, add OSS or ALSA support. So far I haven't modified anything, just transcoded all the files into UTF-8.
+Squall is an audio engine for games. Originally written by Marat Gilyazetdinov. Last version of the engine was 1.48, then, in 2009, Squall was open-sourced. Since then, the progect is no longer maintained by the original developers, so I decided to publish it on GitHub. I plan to modernize the code base and port the engine to Linux, add OSS or ALSA support. So far I haven't modified anything, just transcoded all the files into UTF-8.
 
 Features
 --------
 * Written in C++, has also C interface
-* Supports WAV, MP3, WMA, OGG/Vorbis and a variety of tracker formats including MOD, S3M, XM, IT and many others
+* Supports WAV (PCM, IMA ADPCM, MS ADPCM), MP3, OGG/Vorbis
 * Output via DirectSound
-* 3D sound support
+* 3D sound support (even for stereo sounds)
+* 5.1 multichannel systems support
 * Hardware acceleration support
-* CreativeLab EAX effects support
+* HRTF support (CreativeLab EAX, Sensaura ZoomFX)
 
 Usage
 -----
