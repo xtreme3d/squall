@@ -12,6 +12,10 @@ Features
 * Hardware acceleration support
 * HRTF support (CreativeLab EAX, Sensaura ZoomFX)
 
+Known issues
+------------
+* No 64 bit suport
+
 Usage
 -----
 Squall once was rather popular in Russian game development industry. The following is a list of commercial PC games that are known to use it:

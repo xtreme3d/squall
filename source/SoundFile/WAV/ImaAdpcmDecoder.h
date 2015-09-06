@@ -35,7 +35,7 @@ protected:
 	DWORD _curPacket;							// смещение в файле на текущий пакет
 
 	// распаковка пакета
-	DWORD CDecompressImaAdpcmMs::DecodePacket(void);
+	DWORD DecodePacket(void);
 
 public:
 	// конструктор/деструктор

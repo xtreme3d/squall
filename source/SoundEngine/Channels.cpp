@@ -8,7 +8,7 @@
 // включения
 #include <stdio.h>
 #include <math.h>
-
+#include <dsound.h>
 #include "../SoundFile/SoundFile.h"
 #include "Channels.h"
 
