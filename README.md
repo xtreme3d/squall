@@ -15,6 +15,7 @@ Features
 Known issues
 ------------
 * No 64 bit suport
+* WMA and tracker formats support doesn't work
 
 Usage
 -----
