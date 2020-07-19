@@ -1,6 +1,6 @@
 Squall
 ======
-Squall is an audio engine for games. Originally written by Marat Gilyazetdinov. Last version of the engine was 1.48, then, in 2009, Squall was open-sourced. Since then, the progect is no longer maintained by the original developers, so I decided to publish it on GitHub. I plan to modernize the code base and port the engine to Linux, add OSS or ALSA support. So far I haven't modified anything, just transcoded all the files into UTF-8.
+Squall is an audio engine for games. Originally written by Marat Gilyazetdinov. Last version of the engine was 1.48, then, in 2009, Squall was open-sourced. Since then, the project is no longer maintained by the original developers, so I decided to publish it on GitHub. I haven't modified anything, just transcoded all the files into UTF-8.
 
 Features
 --------
